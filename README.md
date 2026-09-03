@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Samar Aouadi 👋
 
-<!--
-**AouadiSamar/AouadiSamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend / Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs and enterprise integrations
+using Python, Django, FastAPI and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on backend engineering, distributed systems,
+cloud infrastructure and AI-powered applications.
+
+### 🛠️ Backend
+
+Python • Django • FastAPI • Node.js
+PostgreSQL • MySQL • MongoDB
+Redis • Celery • RabbitMQ
+REST APIs • Microservices
+
+### ☁️ Cloud & DevOps
+
+AWS • Docker • Kubernetes
+GitHub Actions • CI/CD
+Linux • Git
+
+### 🔌 Integration
+
+MuleSoft • SAP • Dynamics 365
+REST • SOAP • SFTP • FTPS
+
+### 🤖 AI
+
+LLM APIs • AI integrations
+NLP • AI-powered backend services
+
+### 📌 Featured Projects
+
+🩺 Healthcare AI Backend
+⚡ Event-Driven FastAPI Platform
+🔐 Django REST API
+🔌 Enterprise Integration Platform

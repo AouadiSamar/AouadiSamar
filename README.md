@@ -35,5 +35,5 @@ NLP • AI-powered backend services
 
 🩺 Healthcare AI Backend
 ⚡ Event-Driven FastAPI Platform
-🔐 Django REST API
+🔐 REST API
 🔌 Enterprise Integration Platform
